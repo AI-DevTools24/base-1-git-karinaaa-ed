@@ -4,7 +4,7 @@
     "branch_exists": false,
     "pull_request_exists": false,
     "license_exists": false,
-    "gitignore_exists": false,
+    "gitignore_exists": true,
     "readme_exists": true,
     "email_exists": false
 }
