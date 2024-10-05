@@ -5,10 +5,10 @@ with open("report.json", "r") as file:
 
 def test_1():
     assert report["grade"] >= 1
-    
+        
 def test_2():
     assert report["grade"] >= 2
-    
+        
 def test_3():
     assert report["grade"] >= 3
     
