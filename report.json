@@ -1,7 +1,7 @@
 {
     "grade": 0,
     "repo": "base-1-git-karinaaa-ed",
-    "branch_exists": false,
+    "branch_exists": true,
     "pull_request_exists": false,
     "license_exists": false,
     "gitignore_exists": true,
