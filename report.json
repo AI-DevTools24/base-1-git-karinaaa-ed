@@ -1,10 +1,12 @@
 {
-    "grade": 0,
+    "grade": 3.5,
     "repo": "base-1-git-karinaaa-ed",
     "branch_exists": true,
-    "pull_request_exists": false,
-    "license_exists": false,
+    "pull_request_exists": true,
+    "license_exists": true,
     "gitignore_exists": true,
     "readme_exists": true,
-    "email_exists": false
+    "email_exists": true,
+    "email": "karinaedigaryan265@gmail.com",
+    "SHA1": "940a7c00aac004e352261e763bc714a04ab5c577"
 }
